@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: >
+  If you use the data analysis, code, or results from this repository,
+  please cite the associated manuscript.
+
+title: "Magnetic Reconnection within Mature Kelvin–Helmholtz Structures at the Distant Dawnside Magnetopause"
+
+type: software
+
+authors:
+  - family-names: "Lentz"
+    given-names: "Christy L."
+
+  - family-names: "Eriksson"
+    given-names: "Stefan"
+
+  - family-names: "Ahmadi"
+    given-names: "Narges"
+
+  - family-names: "Baker"
+    given-names: "Daniel N."
+
+abstract: >
+  Analysis code supporting the study of Kelvin–Helmholtz-driven magnetic
+  reconnection observed by the Magnetospheric Multiscale (MMS) mission at
+  Earth's distant dawnside magnetopause. The analysis examines 15 current
+  sheets with magnetic reconnection signatures observed during an extended
+  interval of Kelvin–Helmholtz wave activity on 17–18 June 2020.
+
+keywords:
+  - Magnetospheric Multiscale
+  - MMS
+  - Kelvin-Helmholtz instability
+  - magnetic reconnection
+  - magnetopause
+  - space plasma physics
+  - PySPEDAS
+  - Python
+
+repository-code: "YOUR-GITHUB-REPOSITORY-URL"
+
+date-released: 2026-09-08
+
+preferred-citation:
+  type: article
+  title: "Magnetic Reconnection within Mature Kelvin–Helmholtz Structures at the Distant Dawnside Magnetopause"
+  authors:
+    - family-names: "Lentz"
+      given-names: "Christy L."
+
+    - family-names: "Eriksson"
+      given-names: "Stefan"
+
+    - family-names: "Ahmadi"
+      given-names: "Narges"
+
+    - family-names: "Baker"
+      given-names: "Daniel N."
+
+  journal: "Journal of Geophysical Research: Space Physics"
